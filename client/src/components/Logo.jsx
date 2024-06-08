@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import styled from 'styled-components';
-import logo from '../assets/logo.JPEG';
+import logo from '../assets/logo.jpeg';
 import { Link } from 'react-router-dom';
 import Auth from '../utils/auth';
 
