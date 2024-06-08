@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@apollo/client": "^3.7.14",
+    "@vitejs/plugin-react": "^4.3.0",
     "bootstrap": "^5.2.3",
     "bulma": "^1.0.1",
     "graphql": "^16.6.0",
@@ -25,7 +26,6 @@
   "devDependencies": {
     "@types/react": "^18.2.15",
     "@types/react-dom": "^18.2.7",
-    "@vitejs/plugin-react": "^4.3.0",
     "eslint": "^8.45.0",
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-hooks": "^4.6.0",
